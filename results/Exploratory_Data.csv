@@ -1,0 +1,7 @@
+item,value
+rows_before_cleaning,41718
+PM2.5_missing,0
+PM2.5_<=_0,727
+PM2.5_>=_500,8
+rows_removed_total,735
+rows_after_cleaning,40983

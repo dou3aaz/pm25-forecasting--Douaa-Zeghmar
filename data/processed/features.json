@@ -1,0 +1,1 @@
+["temperature_celsius", "pressure_mb", "wind_u", "wind_v", "NO2", "CO", "O3", "AOD", "pm25_lag1", "pm25_lag2", "pm25_lag3", "pm25_lag7", "AOD_lag1", "AOD_lag2", "AOD_lag3", "NO2_lag1", "AOD_diff1", "AOD_diff3", "temp_diff1", "pm25_roll3_mean", "pm25_roll3_std", "pm25_roll7_mean", "pm25_roll7_std", "AOD_roll7_max", "doy_sin", "doy_cos", "NO2_missing", "CO_missing", "O3_missing"]
